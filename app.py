@@ -1623,7 +1623,7 @@ st.markdown(f"""
     <span>🔋 Min battery <b>{_battery_min:.0f}%</b></span>
     <span>⏱ Last data <b>{_data_age}</b></span>
     <span>🌐 Edge / Offline</span>
-    <span>📡 LoRa <b>OK</b></span>
+    <span>📡 ESP-NOW <b>OK</b></span>
 </div>
 """, unsafe_allow_html=True)
 
